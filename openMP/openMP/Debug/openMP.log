@@ -1,0 +1,3 @@
+﻿  openMP.cpp
+C:\Users\Lu\Desktop\everything\大三上学期\高性能\实验1\openMP\openMP\openMP.cpp(39,6): warning C4101: “j”: 未引用的局部变量
+  openMP.vcxproj -> C:\Users\Lu\Desktop\everything\大三上学期\高性能\实验1\openMP\Debug\openMP.exe
